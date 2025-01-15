@@ -14,9 +14,11 @@ iFootballManager AI helps football managers and enthusiasts manage a team on a b
 ## Background
 
 
-The challenge of scouting and identifying undervalued talent.
-The difficulty of optimizing player quality within budget constraints.
-Empowering smaller teams to compete strategically.
+*The challenge of scouting and identifying undervalued talent.
+
+*The difficulty of optimizing player quality within budget constraints.
+
+*Empowering smaller teams to compete strategically.
 
 As an football enthusiast, I want to create a tool that levels the playing field for smaller clubs, encouraging smarter team-building strategies and making football management more accessible.
 
