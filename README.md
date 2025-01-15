@@ -53,7 +53,7 @@ This solution is ideal for:
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
-![image](https://github.com/user-attachments/assets/7216fb29-b75b-4f9d-8f14-6fbab68acc0a)
+
 
 
 If you need to resize images, you have to use an HTML tag, like this:
