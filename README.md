@@ -10,7 +10,7 @@ iFootballManager AI helps football managers and enthusiasts manage a team on a b
 
 
 ## Background
-
+Football clubs with limited budgets often struggle to compete with wealthier teams. This project aims to provide tools to identify undervalued talent and optimize squad quality within financial constraints.
 
 *The challenge of scouting and identifying undervalued talent.
 
@@ -22,6 +22,7 @@ As an football enthusiast, I want to create a tool that levels the playing field
 
 
 ## How is it used?
+This solution simplifies football team management by analyzing data and providing actionable insights. It is designed for both professionals and enthusiasts.
 
 Users input:
 
@@ -59,7 +60,7 @@ Describe the process of using the solution. In what kind situations is the solut
 
 
 ## Data sources and AI methods
-
+The project relies on high-quality data and advanced AI techniques to generate valuable insights and predictions.
 
 *Player performance data from sources like FBref or Opta.
 
@@ -75,6 +76,7 @@ Describe the process of using the solution. In what kind situations is the solut
 
 
 ## Challenges
+While the project provides significant advantages, it is important to recognize its limitations.
 
 *Account for subjective factors like player mentality or team chemistry.
 
@@ -88,7 +90,7 @@ Describe the process of using the solution. In what kind situations is the solut
 
 
 ## What next?
-
+The project has significant potential for growth and could be expanded to become even more impactful.
 *Adding support for more leagues and competitions.
 
 *Integrating real-time match performance updates.
